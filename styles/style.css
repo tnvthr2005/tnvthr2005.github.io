@@ -3,6 +3,10 @@ p {
     color: pink;
 }
 
+div.song{
+    color: yellow;
+}
+
 a {
     color: blue;
     font-family: sans-serif;
@@ -13,3 +17,4 @@ h2,
 h3 {
     font-style: italic;
 }
+
