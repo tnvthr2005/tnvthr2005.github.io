@@ -1,0 +1,15 @@
+/*paragraph 스타일지정 */
+p {
+    color: pink;
+}
+
+a {
+    color: blue;
+    font-family: sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    font-style: italic;
+}
