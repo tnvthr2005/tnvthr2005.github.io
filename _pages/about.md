@@ -7,7 +7,7 @@ subtitle: "<a href='https://www.snu.ac.kr'>서울대학교</a> | <a href='https:
 
 profile:
   align: right
-  image: OIP.jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
