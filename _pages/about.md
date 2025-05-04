@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='https://www.snu.ac.kr'>서울대학교</a> | <a href='https://cls.snu.ac.kr'>자유전공학부</a> | <a href='https://econ.snu.ac.kr'>경제학부</a>"
+subtitle: >
+  <a href='https://www.snu.ac.kr'>서울대학교</a> |
+  <a href='https://cls.snu.ac.kr'>자유전공학부</a> |
+  <a href='https://econ.snu.ac.kr'>경제학부</a>
 
 
 profile:
