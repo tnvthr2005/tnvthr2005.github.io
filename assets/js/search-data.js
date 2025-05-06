@@ -72,7 +72,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-markdown-문법-기초",
+            },{id: "post-레인보우샤베트-아이스크림-레시피",
+        
+          title: "레인보우샤베트 아이스크림 레시피",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/icecream-recipe/";
+          
+        },
+      },{id: "post-레인보우샤베트-아이스크림-레시피",
+        
+          title: "레인보우샤베트 아이스크림 레시피",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/markdown/";
+          
+        },
+      },{id: "post-markdown-문법-기초",
         
           title: "Markdown 문법 기초",
         
