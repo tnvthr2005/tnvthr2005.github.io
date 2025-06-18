@@ -1,6 +1,9 @@
 let text = "";
 
-const stopwords = ["the", "and", "to", "in"]
+const stopwords = ["the", "and", "to", "in", "of", "a", "for", "with",
+                   "on", "this", "that", "it", "which", "an", "from",
+                   "they", "by", "its", "is", "as"
+                  ]
 
 const ctx = document.getElementById('myChart').getContext('2d');
 
